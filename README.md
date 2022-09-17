@@ -5,7 +5,7 @@ Projeto acadêmico, minha parte nesse projeto foi posicionar cada elemento atrav
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alurinha**
-| :label: Tecnologias |html e css (tecnologias utilizadas)
+| :label: Tecnologias |html, css
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
